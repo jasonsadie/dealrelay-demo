@@ -5,3 +5,4 @@
 .primaryAction:disabled{background:#9ca3af;cursor:not-allowed;box-shadow:none}.choiceList button:not(:disabled){cursor:pointer}.choiceList button:not(:disabled):hover{background:#f5f3ff;border-color:#c4b5fd;color:#4c1d95}
 .primaryAction:not(:disabled){background:#4f46e5;box-shadow:0 12px 28px #4f46e540;transform:translateY(-1px)}
 .revisionBox{animation:revealRevision .18s ease-out}@keyframes revealRevision{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:translateY(0)}}
+.decisionHint{background:#fff7ed;border:1px solid #fed7aa;color:#9a3412;border-radius:12px;padding:10px 12px;margin:10px 0 0;font-size:13px;font-weight:750}.choiceList button:disabled{opacity:.55;cursor:not-allowed}
